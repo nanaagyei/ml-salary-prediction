@@ -6,11 +6,15 @@ This is a Streamlit app that allows users to explore and predict salaries for so
 
 1. **Salary Prediction**: Users can input their country, education level, and years of experience, and the app will predict their estimated salary based on a trained machine learning model.
 
+![Salary Page](Predict-page.png)
+
 2. **Salary Exploration**: The app provides visualizations to explore the salary data, including:
 
 - Number of data points from different countries
 - Mean salary based on country
 - Mean salary based on years of experience
+
+![Explore Page](Explore-page.png)
 
 ## Installation
 
